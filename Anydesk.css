@@ -1,0 +1,198 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.nav-up {
+    height: 50px;
+    display: flex;
+    align-items: center;
+}
+
+.nav-up input {
+    height: 30px;
+    width: 180vh;
+    margin-left: 1vh;
+}
+
+#input-top {
+    border: none;
+    border-radius: 5px;
+    background-color: #d1d1c9;
+}
+
+
+.icons-top-nav {
+    height: 30px;
+    width: 100px;
+    align-items: center;
+    display: flex;
+}
+
+.top-icons i {
+    margin-left: 12px;
+}
+
+.networking-pupose {
+    height: 50px;
+    width: 100%;
+    background-color: red;
+    display: flex;
+    color: white;
+    align-items: center;
+    font-size: 25px;
+    justify-content: space-between;
+}
+
+.networking-pupose a {
+    color: white;
+    flex-wrap: wrap;
+}
+
+
+.net-links a {
+    margin-left: 150vh;
+}
+
+.main-disply-num {
+    height: 50px;
+    width: 100%;
+    margin-top: 0px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.main-details h1 {
+    color: red;
+}
+
+.main-details h3 {
+    display: flex;
+    align-items: center;
+}
+
+.main-details {
+    flex-wrap: wrap;
+}
+
+.details-icons {
+    margin-left: 2px;
+}
+
+.details-icons i {
+    margin-left: 20px;
+}
+
+#invite-icon {
+    height: 50px;
+    margin-left: 10px;
+    border: 1px solid red;
+}
+
+.links-two-pages {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 50px;
+    width: 100%;
+    font-size: 20px;
+}
+
+.left-links {
+    width: 80%;
+    text-decoration: none;
+}
+.left-links a{
+margin-left: 53px;
+}
+
+.left-links a {
+    text-decoration: none;
+}
+
+.left-links a:hover {
+    color: gray;
+}
+
+.right-links {
+    display: flex;
+    justify-content: flex-end;
+    width: 50%;
+}
+
+.right-links i {
+    margin-left: 30px;
+}
+
+.horizentele-line {
+    width: 92%;
+    margin: auto;
+    margin-top: 20px;
+    font-size: 20px;
+}
+
+.bottom-container {
+    width: 94%;
+    margin: auto;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.box {
+    margin-top: 15px;
+    height: 250px;
+    width: 300px;
+    margin-left: 12px;
+}
+
+#box1 {
+    color: white;
+    padding: 20px;
+    gap: 20px;
+    display: flex;
+    flex-direction: column;
+    background-color: red;
+}
+
+#box1 a {
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 100px;
+    color: white;
+}
+
+#box2 {
+    padding: 20px;
+    gap: 20px;
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(244, 236, 225);
+}
+
+#box2 a{
+color: rgb(128, 117, 117);
+}
+
+#box3 {
+    color: white;
+    padding: 20px;
+    gap: 20px;
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(183, 183, 234);
+}
+
+
+#box3 a {
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 100px;
+    color: white;
+}
+
+.Anydesk{
+    flex-wrap: wrap;
+}
